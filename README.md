@@ -1,6 +1,6 @@
 # NASA APOD Data Retrieval - Small API Exercise
 
-This is a small exercise for my academic module, focusing on handling APIs using Python. 
+This is a small exercise focusing on handling APIs using Python. 
 The project involves retrieving data from the **NASA Astronomy Picture of the Day (APOD) API**, processing it, and storing the results in a JSON file.
 
 ---
